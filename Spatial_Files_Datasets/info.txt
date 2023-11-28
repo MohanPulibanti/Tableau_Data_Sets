@@ -1,0 +1,6 @@
+Tableau Allows us to connect to different Spatial Files
+
+1)	Shapefiles  (.shp, .shx, .dbf)  Mostly widely used spatial files and we must have .shp, .shx, .dbf files in the package.
+2)	MapInfo tables (.TAB, .DAT, .MAP, .ID)
+3)	KML (Keyhole Markup Language) .kml
+4)	GeoJSON (.geojson)
